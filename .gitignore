@@ -1,0 +1,5 @@
+.DS_Store
+*.tar
+*.tar.gz
+# proprietary prebuilt libraries (one is 491MB, over GitHub's limit)
+wlib-mbe-sql-share/vendor/lib/
